@@ -18,6 +18,9 @@ howdoi
  ### Functionalities:
    #### Search: 
    You can search for programming-related questions by specifying keywords or phrases.
+   There is a more advanced use, and you can search for anything not just python or programming
+   related information. There is a much broader use, that this exploration activity did not
+   encompass. 
    #### Retrieve: 
    The package retrieves relevant code from Stack Overflow based on your question.
    #### Format: It formats and displays the retrieved code snippets in a readable format within the terminal.
@@ -51,4 +54,6 @@ howdoi
   use of Pythons subprocess that allowed me to run commands on the command line from the script and also
   retrieve the output. This had its limitations because it did not allow me to show the different output
   available. There are snippets of that code in my program but because I had to run it through subprocesses
-  you can only see those features directly from the command line.
+  you can only see those features directly from the command line. I also had a bit of difficulty because of 
+  the version of Python that howdoi is compatible with. It has not been updated to the latest version, so I 
+  had to revert to Python 3.10 in order to explore this module.
