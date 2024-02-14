@@ -11,5 +11,10 @@
 ##  What purpose does your program serve? 
    This program serves to show the functionality of the Howdoi module while also being a basic python tutorial.
 ##  What would be some sample input/output?
-### 
+### Example:
+     
+     $ howdoi iterate over list python
+     for item in my_list:
+         print(item)
+     
     
