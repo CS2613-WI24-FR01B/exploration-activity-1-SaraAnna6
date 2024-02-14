@@ -8,6 +8,7 @@
     1. first you must download the module
     pip install Howdoi
     2. run script python pythonfilename.py
+    3. howdoi module is compatible with Python 3.10
 ##  What purpose does your program serve? 
    This program serves to show the functionality of the Howdoi module while also being a basic python tutorial.
 ##  What would be some sample input/output?
